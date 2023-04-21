@@ -24,7 +24,7 @@ To analyze a specific csv file.
   arguments only -f are required:
   - -f    input filename csv
   - -g    enable graphical mode
-  - -m    take vale of moving price, and return when price moving like that
+  - -m    take value of moving price, and return when price moving like that
   - -o    output filename csv
 
 
